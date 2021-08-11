@@ -1,20 +1,9 @@
+#Если что-то не надо раскомитьте)
 .htaccess
-/config.php
-admin/config.php
+.idea/*
+#wa-config/
+#wa-log/
 
-!index.html
-
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
-
-system/storage/
-
-# vQmod log files
-vqmod/logs/*
-# vQmod cache files
-vqmod/vqcache/*
-vqmod/checked.cache
-vqmod/mods.cache
+#wa-log/
+#wa-cache/
+#nodemodules/
